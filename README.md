@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julián Meza</h1>
-<h3 align="center">Estudiante avanzado en ingeniería informática, con gran orientación al campo de análisis de datos, Data Science, IA y Machine Learning</h3>
+<h3 align="center">Estudiante avanzado en ingeniería informática, con gran orientación al campo de Data Science, IA y Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianomar" alt="julianomar" /></a> </p>
 
 - 💬 Ask me about **Python, Numpy, Pandas, Scikit-Learn, Apache Spark, Matplotlib, Seaborn**
 

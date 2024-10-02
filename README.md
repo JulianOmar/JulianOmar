@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julián Meza</h1>
-<h3 align="center">Estudiante avanzado en ingeniería informática, con gran orientación al campo de Data Science, IA y Machine Learning</h3>
+<h3 align="center">Advanced student in computer engineering, with a strong focus on the field of Data Science, AI and Machine Learning</h3>
 
 
 - 💬 Ask me about **Python, Numpy, Pandas, Scikit-Learn, Apache Spark, Matplotlib, Seaborn**
